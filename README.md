@@ -13,6 +13,10 @@ The page includes:
 - A deals section with featured electronics and gadgets
 - A footer with informational links and copyright text
 
+## Preview
+
+![Website preview](image.png)
+
 ## Files
 
 - `pro-2.html` - Main HTML structure for the page
