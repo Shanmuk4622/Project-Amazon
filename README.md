@@ -51,6 +51,10 @@ The page includes:
 - Add interactive search, cart, and dropdown behavior with JavaScript
 - Refactor the HTML to use more semantic elements
 
+## Project Notes
+
+This repository was originally started as a small Amazon clone practice project, so the codebase is intentionally simple and static.
+
 ## Author
 
-Created as a front-end practice project.
+Created by Shanmukesh as a front-end practice project.
